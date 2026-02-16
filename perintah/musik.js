@@ -3,6 +3,7 @@ const axios = require("axios");
 module.exports = {
   hady: {
     nama: "musik",
+    versi: "1.0",
     penulis: "Hady Zen'in",
     kuldown: 16,
     peran: 0,
