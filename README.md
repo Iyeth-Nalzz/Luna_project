@@ -1,8 +1,8 @@
 ![ayano](assets/ayanokoji.png) 
 
-<h1 align="center">Ara ✨️</h1>
+<h1 align="center">KIYOPON V1</h1>
 
-> Basis nya dari bot Ayanokoji Kiyotaka by Hady Zen'in<br>
+> Chatbot for Facebook <br>
 
 ![hady](https://skillicons.dev/icons?i=html,css,js,nodejs,bash&theme=dark) 
 
