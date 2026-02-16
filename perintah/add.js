@@ -2,7 +2,7 @@ module.exports = {
 hady: { 
   nama: "add",
   penulis: "Hady Zen", 
-  peran: 0,
+  peran: 1,
   kuldown: 10,
   tutor: "<id>"
 }, 
