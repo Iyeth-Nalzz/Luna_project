@@ -1,21 +1,20 @@
 ![ayano](assets/ayanokoji.png) 
 
-<h1 align="center">𝗔𝘆𝗮𝗻𝗼𝗸𝗼𝗷𝗶 𝗞𝗶𝘆𝗼𝘁𝗮𝗸𝗮 ⚡</h1>
+<h1 align="center">Ara ✨️</h1>
 
-> 𝚂𝚎𝚖𝚞𝚊 𝚘𝚛𝚊𝚗𝚐 𝚑𝚊𝚗𝚢𝚊𝚕𝚊𝚑 𝚊𝚕𝚊𝚝 <br>
+> Basis nya dari bot Ayanokoji Kiyotaka by Hady Zen'in<br>
 
 ![hady](https://skillicons.dev/icons?i=html,css,js,nodejs,bash&theme=dark) 
 
 ## 𝗔𝗗𝗠𝗜𝗡 🜲
 
-Nama: Hadi Pranata <br>
+Nama: Hady Zen'in <br>
 Facebook: https://www.facebook.com/hady.zen.in <br>
-Tiktok: https://www.tiktok.com/@hady.zen 
+Tiktok: https://www.tiktok.com/@hady.zen.in
 
 ## SPONSOR 🜲
 
 Website: https://hady-zen-web.koyeb.app/ <br>
-Bot asli: https://green-unique-eustoma.glitch.me/ <br>
 App: https://raw.githubusercontent.com/HadyZen/hady-zen-api/refs/heads/main/Tsukihime.apk
 
 ## TUTOR 🜲
