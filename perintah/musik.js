@@ -1,9 +1,8 @@
 const axios = require("axios");
-
+const fs = require("fs");
 module.exports = {
   hady: {
     nama: "musik",
-    versi: "1.0",
     penulis: "Hady Zen'in",
     kuldown: 16,
     peran: 0,
@@ -41,7 +40,7 @@ module.exports = {
       return api.sendMessage(
         {
           body: `Ini lagu yang kamu cari: ${judul}`,
-          attachment: sifa
+          attachment: fs.createReadStream(sifa)
         },
         event.threadID,
         event.messageID
