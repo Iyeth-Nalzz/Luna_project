@@ -3,7 +3,7 @@ module.exports = {
     nama: "tid", 
     penulis: "Hady Zen", 
     kuldown: 10,
-    peran: 0,
+    peran: 1,
     tutor: ""
   }, 
   
