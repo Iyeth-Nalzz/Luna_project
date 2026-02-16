@@ -6,28 +6,31 @@
 
 ![hady](https://skillicons.dev/icons?i=html,css,js,nodejs,bash&theme=dark) 
 
-## 𝗔𝗗𝗠𝗜𝗡 🜲
+## 𝗔𝗗𝗠𝗜𝗡 ✨️
 
 Nama: Hady Zen'in <br>
 Facebook: https://www.facebook.com/hady.zen.in <br>
 Tiktok: https://www.tiktok.com/@hady.zen.in
+Github: https://github.com/HadyZen
+Github: https://github.com/DyyRaa
 
-## SPONSOR 🜲
+## SPONSOR ✨️
+Jangan lupa kunjungi:
 
-Website: https://hady-zen-web.koyeb.app/ <br>
-App: https://raw.githubusercontent.com/HadyZen/hady-zen-api/refs/heads/main/Tsukihime.apk
+- Fca: https://www.npmjs.com/package/hadyzen-fca
+- Edge: https://play.google.com/store/apps/details?id=com.microsoft.emmx
 
 ## TUTOR 🜲
 
-1. Unduh kiwi browser di play store <br>
+1. Unduh Microsoft Edge <br>
 ```hady
-https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
+https://play.google.com/store/apps/details?id=com.microsoft.emmx
 ```
-2. Buka url dibawah ini di kiwi browser <br>
+2. Buka url dibawah ini <br>
 ```hady
-https://glitch.com
+https://bot-hosting.net
 ```
-3. Masuk ke akun glitch mu atau buat <br>
+3. Login ke akun bot-hosting <br>
 4. Buat project baru dan masukkan url ini <br>
 ```hady
 https://github.com/HadyZen/Ayanokoji-Kiyotaka.git
