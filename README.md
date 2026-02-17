@@ -1,6 +1,6 @@
 ![ayano](assets/ayanokoji.png) 
 
-<h1 align="center">KIYOPON V1</h1>
+<h1 align="center">KIYOPON V1 ✨️</h1>
 
 > Chatbot for Facebook <br>
 
@@ -14,43 +14,34 @@ Tiktok: https://www.tiktok.com/@hady.zen.in
 Github: https://github.com/HadyZen
 Github: https://github.com/DyyRaa
 
-## SPONSOR ✨️
-Jangan lupa kunjungi:
-
-- Fca: https://www.npmjs.com/package/hadyzen-fca
-- Edge: https://play.google.com/store/apps/details?id=com.microsoft.emmx
-
 ## TUTOR 🜲
 
 1. Unduh Microsoft Edge <br>
 ```hady
 https://play.google.com/store/apps/details?id=com.microsoft.emmx
 ```
-2. Buka url dibawah ini <br>
-```hady
-https://bot-hosting.net
-```
-3. Login ke akun bot-hosting <br>
-4. Buat project baru dan masukkan url ini <br>
-```hady
-https://github.com/HadyZen/Ayanokoji-Kiyotaka.git
-```
-5. Unduh cookie editor dibawah ini <br> 
-```hady
-https://raw.githubusercontent.com/HadyZen/Ayanokoji-Kiyotaka/refs/heads/main/assets/cookie.zip
-```
-6. Masukkan file cookie editor ke kiwi extension <br>
-7. Buka url dibawah ini di kiwi browser <br>
+2. Klik garis tiga buka extensi, pasang cookie editor nya <br>
+3. Buka facebook web dan login ke akun bot nya <br>
 ```hady
 https://www.facebook.com
-``` 
-8. Masuk ke akun facebook yang ingin dijadikan bot <br>
-9. Klik titik tiga di kiwi lalu geser kebawah <br>
-10. Pilih cookie editor lalu klik <br>
-11. Klik export atau tanda keluar, pilih format json <br>
-12. Buka file akun.txt di project mu lalu ganti isinya <br>
-13. Ubah kiyotaka.json sebagaimana yang kamu mau <br>
-14. Buka terminal lalu ketik kode ini <br> 
-```hady
-npm start
 ```
+4. Klik garis tiga buka ekstensi lalu klik cookie editor <br>
+5. Klik export (tanda keluar pojok kanan bawah) lalu json <br>
+6. Buka dan login di web ini <br>
+```hady
+https://bot-hosting.net/?aff=1386352043207430254
+```
+7. Klaim koin 10 lalu buat server <br>
+8. Buka server, ke bagian startup <br>
+9. Bagian git repo adders isi ini <br>
+```hady
+https://github.com/DyyRaa/Raa.git
+```
+10. Bagian install branch isi ini <br> 
+```hady
+main
+```
+11. Masuk ke bagian settings, skrol bawah klik reinstall server <br>
+12. Masuk ke bagian files, isi sama cookie yg tersalin tadi <br>
+13. Masuk ke bagian console klik start <br>
+14. Kalau ada masalah hubungi owner, sosmed ada di atas <br>
