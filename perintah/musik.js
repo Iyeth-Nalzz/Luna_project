@@ -1,5 +1,5 @@
 const axios = require("axios");
-const fs = require("fs");
+const fs = require('fs');
 module.exports = {
   hady: {
     nama: "musik",
@@ -34,12 +34,12 @@ module.exports = {
           event.messageID
         );
       }
-
-      const sifa = await getStream(data.result.mp3.download_url);
+      const hady = data.result.mp3;
+      const sifa = await getStream(hady.download_url, "musik.mp3");
 
       return api.sendMessage(
         {
-          body: `Ini lagu yang kamu cari: ${judul}`,
+          body: `Judul:${hady.title}\nDownload: ${hady.download_url}`,
           attachment: fs.createReadStream(sifa)
         },
         event.threadID,
