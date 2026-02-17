@@ -4,7 +4,7 @@ module.exports = {
   hady: {
     nama: "musik",
     penulis: "Hady Zen'in",
-    kuldown: 16,
+    kuldown: 20,
     peran: 0,
     tutor: "<judul>"
   },
@@ -19,20 +19,21 @@ module.exports = {
     }
 
     const judul = args.join(" ");
-
     try {
+      api.setMessageReaction('🎶', event.messageID);
       const { data } = await axios.get(
         `https://fathurweb.qzz.io/api/download/ytplay?query=${encodeURIComponent(
           judul
         )}`
       );
 
-      if (!data.status || !data.result?.mp3?.download_url) {
+      if (!data || data.length == 0 || !data.status || !data.result?.mp3?.download_url) {
         return api.sendMessage(
           "Lagu itu tidak ada, coba yang lain.",
           event.threadID,
           event.messageID
         );
+        api.setMessageReaction('❎️', event.messageID);
       }
       const hady = data.result.mp3;
       const sifa = await getStream(hady.download_url, "musik.mp3");
@@ -45,6 +46,7 @@ module.exports = {
         event.threadID,
         event.messageID
       );
+      api.setMessageReaction('✅️', event.messageID);
 
     } catch (err) {
       return api.sendMessage(
