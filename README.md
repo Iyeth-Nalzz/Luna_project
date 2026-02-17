@@ -31,8 +31,8 @@ https://www.facebook.com
 ```hady
 https://bot-hosting.net/?aff=1386352043207430254
 ```
-7. Klaim koin 10 lalu buat server <br>
-8. Buka server, ke bagian startup <br>
+7. Klaim koin 10 lalu buat server berbasis nodejs v16<br>
+8. Buka server, masuk bagian startup <br>
 9. Bagian git repo adders isi ini <br>
 ```hady
 https://github.com/DyyRaa/Raa.git
