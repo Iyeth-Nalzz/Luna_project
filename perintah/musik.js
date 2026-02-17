@@ -33,7 +33,6 @@ module.exports = {
           event.threadID,
           event.messageID
         );
-        api.setMessageReaction('❎️', event.messageID);
       }
       const hady = data.result.mp3;
       const sifa = await getStream(hady.download_url, "musik.mp3");
@@ -46,7 +45,6 @@ module.exports = {
         event.threadID,
         event.messageID
       );
-      api.setMessageReaction('✅️', event.messageID);
 
     } catch (err) {
       return api.sendMessage(
