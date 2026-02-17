@@ -6,13 +6,13 @@
 
 ![hady](https://skillicons.dev/icons?i=html,css,js,nodejs,bash&theme=dark) 
 
-## 𝗔𝗗𝗠𝗜𝗡 ✨️
+## OWNER ✨️
 
 Nama: Hady Zen'in <br>
 Facebook: https://www.facebook.com/hady.zen.in <br>
 Tiktok: https://www.tiktok.com/@hady.zen.in <br>
 Github: https://github.com/HadyZen <br>
-Github: https://github.com/DyyRaa <br>
+Github: https://github.com/DyyRaa 
 
 ## TUTOR ✨️
 
