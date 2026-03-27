@@ -1,6 +1,6 @@
 {
-  "nama": "Ara",
-  "awalan": ".",
+  "nama": "Reya",
+  "awalan": "(",
   "port": 8080,
   "proxy": "103.179.217.242",
   "bahasa": "id",
@@ -8,7 +8,7 @@
   "chatdm": false,
   "maintain": false,
   "zonawaktu": "Asia/Jakarta", 
-  "admin": ["100088085177610"], 
+  "admin": ["100062186575693"], 
   "setting": {
     "forceLogin": true,
     "listenEvents": true,
